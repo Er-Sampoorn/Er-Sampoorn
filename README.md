@@ -72,7 +72,7 @@ Blockchain-powered public fund transparency platform.
 
 <div align="center">
   <br>
-  <img src="https://github.com/Er-Sampoorn/sampoorntripathi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Er-Sampoorn/Er-Sampoorn/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
