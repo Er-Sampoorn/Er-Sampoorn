@@ -89,6 +89,7 @@ Blockchain-powered public fund transparency platform.
 
 * **LinkedIn:** [linkedin.com/in/sampoorntripathi](https://linkedin.com/in/sampoorntripathi)
 * **Portfolio:** [tripathisam.vercel.app](https://tripathisam.vercel.app)
+* **Resume:** [View / Download My Resume](#)
 * **Email:** [tripathisampoorn1@gmail.com](mailto:tripathisampoorn1@gmail.com)
 
 ---
