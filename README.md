@@ -66,13 +66,13 @@ Blockchain-powered public fund transparency platform.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampoorntripathi&show_icons=true&theme=tokyonight" alt="Sampoorn's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampoorntripathi&layout=compact&theme=tokyonight" alt="Sampoorn's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Er-Sampoorn&show_icons=true&theme=tokyonight" alt="Sampoorn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Sampoorn&layout=compact&theme=tokyonight" alt="Sampoorn's Top Languages" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github.com/sampoorntripathi/sampoorntripathi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Er-Sampoorn/sampoorntripathi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -94,5 +94,5 @@ Blockchain-powered public fund transparency platform.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sampoorntripathi&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Er-Sampoorn&color=blueviolet" alt="Profile views" />
 </div>
