@@ -5,26 +5,18 @@
   <br><br>
 
   <!-- Dynamic Typing Title Banner -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/Er-Sampoorn">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Full+Stack+Developer;Hackathon+Winner+2025;Building+CivicLedger+%7C+RoadSense+%7C+AgriSense;Web3+%26+Distributed+Systems+Builder" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
 
   <!-- Visitor Count & Online Pill Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Er-Sampoorn&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
-    <img src="https://img.shields.io/badge/LOCATION-INDIA-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <a href="https://github.com/Er-Sampoorn"><img src="https://komarev.com/ghpvc/?username=Er-Sampoorn&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+    <a href="https://github.com/Er-Sampoorn"><img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Status" /></a>
+    <a href="https://github.com/Er-Sampoorn"><img src="https://img.shields.io/badge/LOCATION-INDIA-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
   </p>
-</div>
-
----
-
-### 🏆 GitHub Accolades & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Er-Sampoorn&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Er-Sampoorn GitHub Trophies" width="100%" />
 </div>
 
 ---
@@ -60,7 +52,7 @@
 
 <div align="center">
   <p><b>Interactive Animated Skill Grid</b></p>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Er-Sampoorn">
     <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,solidity,react,nextjs,nodejs,express,fastapi,pytorch,tensorflow,docker,aws,gcp,firebase,html,css,git,github,vscode,tailwind,postgres,mongodb&perline=12&theme=dark" alt="Skill Icons" />
   </a>
 </div>
@@ -86,26 +78,26 @@
 ## 📈 GitHub Analytics & Activity Plugins
 
 <div align="center">
-  <table border="0">
+  <p><b>GitHub Activity Profile Summary</b></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Er-Sampoorn&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
+
+  <br><br>
+
+  <table border="0" width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Er-Sampoorn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Er-Sampoorn&theme=tokyonight" alt="Repos Per Language" width="100%" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Sampoorn&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Er-Sampoorn&theme=tokyonight" alt="Most Commit Language" width="100%" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Sampoorn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-  <br><br>
-
-  <!-- Activity Wave Graph -->
-  <p><b>📊 Contribution Activity Wave</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Sampoorn&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <p><b>🔥 GitHub Contribution Streak Stats</b></p>
+  <img src="https://streak-stats.demolab.com/?user=Er-Sampoorn&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="85%" />
 </div>
 
 ---
@@ -113,7 +105,7 @@
 ## 🐍 Animated Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Er-Sampoorn/Er-Sampoorn/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid Animation" width="100%" />
 </div>
 
 ---
@@ -144,20 +136,23 @@
 
 ## 📫 Let's Connect & Collaborate!
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/sampoorntripathi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://tripathisam.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://drive.google.com/file/d/1xlblVFeI0iIKNpm4cHXKSkf85F3N4iUC/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF007A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
+  &nbsp;
   <a href="mailto:tripathisampoorn1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
 <br>
 
