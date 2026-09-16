@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h3>🚀 Who I Am</h3>
       <ul>
-        <li>🏆 <b>Hackathon Winner</b> — <i>UP Govt Blockchain/Web3 Track 2025</i></li>
+        <li>🏆 <b> HackwithUP Hackathon Winner</b> — <i>Blockchain/Web3 Track 2025</i></li>
         <li>💡 <b>Founder & Creator</b> — <i>Pragyan Pilot Projects</i></li>
         <li>💻 Specialized in <b>Scalable AI, Distributed Web3 & Civic Systems</b></li>
         <li>🎯 Mission: Solving real-world public infrastructure & agritech problems with software</li>
